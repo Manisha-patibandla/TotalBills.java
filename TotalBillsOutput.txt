@@ -1,4 +1,4 @@
-/*anand owes 0 to others.
+anand owes 0 to others.
 chaitanya owes 250 to others.
 balaji owes -1000 to others. 
-divya owes 750 to others.    */
+divya owes 750 to others.    
